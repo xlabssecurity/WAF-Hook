@@ -118,3 +118,7 @@ A seguir as assinaturas de WAFs já catalogados e presentes na atual Database
 ## WAF da BIG-IP AppSec Manager (F5 Networks)
 
 - Forma de detecção: **Ativa**;
+
+
+### Não encontrou o WAF nesta lista?
+Não fique triste, compartilhe conosco as formas de detecções enviando um email para dev@xlabs.com.br

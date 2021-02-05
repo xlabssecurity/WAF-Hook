@@ -19,7 +19,7 @@ https://play.google.com/store/apps/details?id=br.com.wafhook
 
 ## Um pouco sobre o funcionamento do app WAF-Hook
 
-O WAF-Hook possui duas formas de detecção de WAFs ou alguns Firewalls de Nova Geração (NGFW) que possuam filtros Web.
+O WAF-Hook possui três formas de detecção de WAFs ou alguns Firewalls de Nova Geração (NGFW) que possuam filtros Web.
 
 - **Detecção Passiva**:
 O WAF-Hook utilizando as conexões do mobile, efetua um acesso normal ao website,

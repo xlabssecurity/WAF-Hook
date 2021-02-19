@@ -119,6 +119,27 @@ A seguir as assinaturas de WAFs já catalogados e presentes na atual Database
 
 - Forma de detecção: **Ativa**;
 
+## WAF do Webserver LiteSpeed
+
+- Forma de detecção: **Passiva**; 
+
+## WAF da COMODO
+
+- Forma de detecção: **Passiva**; 
+
+## WAF da BlockDos
+
+- Forma de detecção: **Passiva**; 
+
+## WAF da Barracuda
+
+- Forma de detecção: **Passiva**;
+
+## WAF da BitNinja
+
+- Forma de detecção: **Ativa**; 
+
+
 
 ### Não encontrou o WAF nesta lista?
 Não fique triste, compartilhe conosco as formas de detecções enviando um email para dev@xlabs.com.br

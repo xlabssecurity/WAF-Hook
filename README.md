@@ -127,7 +127,7 @@ A seguir as assinaturas de WAFs já catalogados e presentes na atual Database
 
 - Forma de detecção: **Passiva**; 
 
-## WAF da BlockDos
+## WAF da BlockDoS
 
 - Forma de detecção: **Passiva**; 
 

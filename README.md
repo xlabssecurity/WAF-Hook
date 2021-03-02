@@ -40,52 +40,52 @@ O WAF-Hook utiliza primeiro a verificação passiva e logo após efetua a verifi
 
 A seguir as assinaturas de WAFs já catalogados e presentes na atual Database
 
-## WAF/CDN da XLabs Security
+## WAF/CDN XLabs Security
 
 - Forma de detecção: **Passiva**; 
 
 
-## WAF/CDN da CloudFlare
+## WAF/CDN CloudFlare
 
 - Forma de detecção: **Passiva**; 
 
 
-## WAF ou ELB da Amazon Cloudfront
+## WAF ou ELB Amazon Cloudfront
 
 - Forma de detecção: **Passiva**; 
 
 
-## WAF da Sucuri CloudProxy
+## WAF Sucuri CloudProxy
 
 - Forma de detecção: **Passiva**; 
 
 
-## WAF/CDN da Imperva Incapsula
+## WAF/CDN Imperva Incapsula
 
 - Forma de detecção: **Hibrida**; 
 
 
-## WAF da YxLink
+## WAF YxLink
 
 - Forma de detecção: **Passiva**; 
 
 
-## WAF da ArvanCloud
+## WAF ArvanCloud
 
 - Forma de detecção: **Passiva**; 
 
 
-## WAF da DoSArrest Internet Security
+## WAF DoSArrest Internet Security
 
 - Forma de detecção: **Passiva**; 
 
 
-## WAF/CDN da Akamai KONA Site Defender
+## WAF/CDN Akamai KONA Site Defender
 
 - Forma de detecção: **Passiva**; 
 
 
-## WAF da Fortinet Fortigate WAF (Appliance)
+## Fortinet Fortigate WAF (Appliance)
 
 - Forma de detecção: **Ativa**; 
 
@@ -95,47 +95,58 @@ A seguir as assinaturas de WAFs já catalogados e presentes na atual Database
 - Forma de detecção: **Hibrida**; 
 
 
-## WAF da Citrix NetScaler AppFirewall
+## Citrix NetScaler AppFirewall
 
 - Forma de detecção: **Passiva**; 
 
 
-## WAF da Wordfence (Plugin para Wordpress)
+## Wordfence (Plugin para Wordpress)
 
 - Forma de detecção: **Ativa**; 
 
 
-## WAF da Radware (Radware Appwall)
+## Radware (Radware Appwall)
 
 - Forma de detecção: **Ativa**; 
 
 
-## WAF da Cisco (Cisco ACE XML Gateway)
+## Cisco (Cisco ACE XML Gateway)
 
 - Forma de detecção: **Passiva**; 
 
-
-## WAF da BIG-IP AppSec Manager (F5 Networks)
+## BIG-IP AppSec Manager (F5 Networks)
 
 - Forma de detecção: **Ativa**;
 
-## WAF do Webserver LiteSpeed
-
-- Forma de detecção: **Passiva**; 
-
-## WAF da COMODO
-
-- Forma de detecção: **Passiva**; 
-
-## WAF da BlockDoS
-
-- Forma de detecção: **Passiva**; 
-
-## WAF da Barracuda
+## BIG-IP AP Manager (F5 Networks)
 
 - Forma de detecção: **Passiva**;
 
-## WAF da BitNinja
+## BIG-IP Local Traffic Manager (F5 Networks)
+
+- Forma de detecção: **Hibrida**;
+
+## FirePass (F5 Networks)
+
+- Forma de detecção: **Passiva**;
+
+## Webserver LiteSpeed
+
+- Forma de detecção: **Passiva**; 
+
+## WAF COMODO
+
+- Forma de detecção: **Passiva**; 
+
+## WAF BlockDoS
+
+- Forma de detecção: **Passiva**; 
+
+## WAF Barracuda
+
+- Forma de detecção: **Passiva**;
+
+## WAF BitNinja
 
 - Forma de detecção: **Ativa**; 
 

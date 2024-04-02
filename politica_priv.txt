@@ -1,0 +1,74 @@
+Política de Privacidade do Aplicativo Mobile "WAF-Hook"
+
+1. Introdução
+
+A XLabs Security, uma líder no fornecimento de soluções de Web Application Firewall (WAF) e Content Delivery Network (CDN), compromete-se com a proteção da privacidade e segurança dos usuários do aplicativo mobile "WAF-Hook". O "WAF-Hook" é uma ferramenta projetada para analisar cabeçalhos HTTP de aplicações web para identificação de dispositivos de segurança em websites, sem comprometer a privacidade e segurança dos usuários.
+
+Esta política de privacidade destina-se a fornecer uma compreensão clara de quais informações são coletadas pelo "WAF-Hook", como essas informações são utilizadas, e os direitos dos usuários em relação a essas informações.
+
+2. Informações Coletadas pelo "WAF-Hook"
+
+O "WAF-Hook" é projetado para não recolher nenhuma informação privada dos usuários ou dos websites analisados. A análise de cabeçalhos HTTP é realizada localmente no dispositivo mobile do usuário, e nenhuma informação pessoal ou dados dos websites são enviados ou armazenados em qualquer dispositivo ou servidor externo à aplicação.
+
+3. Uso das Informações
+
+Dado que o "WAF-Hook" não coleta, envia, ou armazena nenhuma informação privada, não existe um uso de dados pessoais dos usuários. Todas as análises realizadas pelo aplicativo são processadas localmente no dispositivo do usuário, garantindo a máxima privacidade e segurança.
+
+4. Compartilhamento de Informações
+
+A XLabs Security não compartilha nenhuma informação, visto que o "WAF-Hook" não coleta, envia, ou armazena dados pessoais ou de websites. A política de não coleta de dados assegura que os usuários possam utilizar o aplicativo sem a preocupação de ter suas informações pessoais ou dos websites analisados compartilhadas.
+
+5. Segurança das Informações
+
+A XLabs Security adota medidas de segurança apropriadas para proteger contra o acesso não autorizado ou alteração, divulgação ou destruição de dados. Isto inclui, entre outras medidas, práticas internas de coleta, armazenamento e processamento de dados e medidas de segurança para proteger contra acesso não autorizado a sistemas onde os dados são armazenados.
+
+6. Direitos dos Usuários
+
+Os usuários do "WAF-Hook" têm total controle sobre as informações processadas pelo aplicativo, visto que nenhuma informação pessoal é coletada. Os usuários podem, a qualquer momento, desinstalar o aplicativo, o que assegura a remoção de qualquer dado processado localmente no dispositivo.
+
+7. Alterações à Política de Privacidade
+
+A XLabs Security reserva-se o direito de fazer alterações a esta Política de Privacidade a qualquer momento. Recomendamos que os usuários revisem regularmente esta política para se manterem informados sobre como estamos protegendo as informações.
+
+8. Contato
+
+Para quaisquer perguntas ou preocupações relativas à política de privacidade do "WAF-Hook", por favor, contate a XLabs Security através do nosso website oficial ou pelo e-mail: suporte@xlabs.com.br
+
+
+English:
+
+Privacy Policy for the "WAF-Hook" Mobile Application
+
+1. Introduction
+
+XLabs Security, a leader in providing Web Application Firewall (WAF) and Content Delivery Network (CDN) solutions, is committed to the protection of our users' privacy and security when using the "WAF-Hook" mobile application. The "WAF-Hook" is designed for analyzing HTTP headers of web applications to identify security devices on websites, all without compromising the privacy and security of its users.
+
+This privacy policy aims to provide a clear understanding of what information is collected by the "WAF-Hook", how this information is used, and the rights of the users concerning their information.
+
+2. Information Collected by the "WAF-Hook"
+
+The "WAF-Hook" is designed to not collect any private information from users or the websites analyzed. The analysis of HTTP headers is performed locally on the user's mobile device, and no personal information or data from the websites is sent or stored on any device or server external to the application.
+
+3. Use of Information
+
+Given that the "WAF-Hook" does not collect, send, or store any private information, there is no use of personal data from the users. All analyses performed by the application are processed locally on the user's device, ensuring maximum privacy and security.
+
+4. Sharing of Information
+
+XLabs Security does not share any information since the "WAF-Hook" does not collect, send, or store any personal or website data. The policy of not collecting data ensures that users can use the application without the concern of having their personal or analyzed website information shared.
+
+5. Information Security
+
+XLabs Security adopts appropriate security measures to protect against unauthorized access or alteration, disclosure, or destruction of data. This includes, among other measures, internal practices of data collection, storage, and processing and security measures to guard against unauthorized access to systems where data is stored.
+
+6. User Rights
+
+Users of the "WAF-Hook" have full control over the information processed by the application since no personal information is collected. Users can, at any time, uninstall the application, ensuring the removal of any data processed locally on the device.
+
+7. Changes to This Privacy Policy
+
+XLabs Security reserves the right to make changes to this Privacy Policy at any time. Users are encouraged to regularly review this policy to stay informed about how we are protecting their information.
+
+8. Contact
+
+For any questions or concerns regarding the "WAF-Hook" privacy policy, please contact XLabs Security through our official website or by email at suporte@xlabs.com.br
